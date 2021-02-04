@@ -1,4 +1,4 @@
 1:this is first message
 2:the second messahe
-3:merge info
+3:merge info----modify by pc
 4:master commit
