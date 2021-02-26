@@ -3,3 +3,4 @@
 3:merge info----modify by pc
 4:master commit
 5:test for rebase
+6:1232
